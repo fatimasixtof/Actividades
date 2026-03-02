@@ -1,0 +1,6 @@
+Programa1:Si movemos el slider para meter más grupos, el equilibrio tarda mil veces más en llegar. Con poquitos grupos los huecos se llenan rápido, pero en cuanto metes diversidad, el espacio se divide muchísimo.No hace falta que sean intolerantes para que se segreguen. Incluso con un 30% de preferencia, terminan armando sus propios grupitos cerrados. Básicamente, a mayor diversidad, más ticks le toma al sistema dejar de ser un caos.
+
+Lo que está pasando aquí es súper interesante: si pones a un grupo súper exigente (tipo 80% de preferencia) y al otro más relajado (30%), el sistema entero termina segregándose igual.
+
+Programa2:Básicamente, el grupo verde (el 'intolerante') no deja de moverse hasta que arma sus propios grupos cerrados. Al hacer eso, termina empujando a los azules a las orillas o a zonas vacías. Al final, basta con que un solo grupo se ponga exigente para que todo el mapa se divida; el grupo tolerante no tiene de otra más que agruparse también. Es loquísimo cómo las reglas de unos cuantos terminan dictando cómo se ve todo el espacio
+
